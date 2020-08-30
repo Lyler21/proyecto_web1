@@ -1,0 +1,16 @@
+SMAP
+listarFabricantes_jsp.java
+JSP
+*S JSP
+*F
++ 0 listarFabricantes.jsp
+listarFabricantes.jsp
+*L
+5,29:44
+34:73,3
+35,8:76
+43:84,3
+44,4:87
+48:91,3
+49,7:94
+*E
